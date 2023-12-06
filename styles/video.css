@@ -1,0 +1,33 @@
+.thumbnail{
+    width:300px;
+    display:block 
+}
+.d{
+    display:inline-block;
+    width:300px;
+    vertical-align: top;
+    margin-right: 15px;
+
+
+}
+.video{
+    margin-top:0px;
+}
+.a{
+    display:inline-block;
+    width:50px;
+    vertical-align: top  ;
+}
+.b{
+    display:inline-block;
+    width:200px;
+}
+.profile
+{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.row{
+    margin-bottom: 10px;;
+}

@@ -1,0 +1,32 @@
+.header{
+    height:55px;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.left{
+    background-color: lightblue;
+    width:150px;
+}
+.middle{
+    background-color: lightyellow;
+    flex:1;
+    margin-left: 70px;
+    margin-right:35px;
+    max-width:300px;
+    /*maximum width it can withstand
+    justify content space between: equall space between flex
+    to use a pseudoclass we need to double colon
+    .a::margin: ;;;
+    */
+    /*box shadow: to use shadow inside the content use 
+    box-shadow: inset
+    */
+
+}
+.ham 
+.right{
+    background-color: lightcoral;
+    width:200px;
+
+}
